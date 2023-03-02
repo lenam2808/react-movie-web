@@ -159,13 +159,12 @@
     }
 }
 /* Mobile: < 740px */
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 740px) {
     .navbarBrand {
         width: 70px;
     }
     .navbarBrand h1 {
         font-size: 20px;
-        color: red
     }
     .inputBar {
         height: 30px;
