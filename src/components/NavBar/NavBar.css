@@ -165,6 +165,7 @@
     }
     .navbarBrand h1 {
         font-size: 20px;
+        color: red
     }
     .inputBar {
         height: 30px;
