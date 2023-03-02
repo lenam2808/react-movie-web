@@ -159,7 +159,7 @@
     }
 }
 /* Mobile: < 740px */
-@media only screen and (max-width: 46.1875em) {
+@media screen and (max-width: 740px) {
     .navbarBrand {
         width: 70px;
     }
@@ -185,7 +185,7 @@
     }
 }
 
-@media only screen 
+/* @media only screen 
     and (device-width : 414px) 
     and (device-height : 896px) 
     and (-webkit-device-pixel-ratio : 3) {
@@ -212,4 +212,4 @@
             justify-content: center;
             height: 56px;
         }
-    }
+    } */
