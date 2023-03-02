@@ -40,7 +40,7 @@ const NavBar = (props) => {
                 </div>
             </div>
             <div className= "navbarLogin">
-                <div className={`navLogin ${scrollY >80?'changeLoginColor':'navLogin'}`}>Đăng nhập</div>
+                <div className="navLogin">Login</div>
             </div>
         </div>
     )
